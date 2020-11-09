@@ -10,6 +10,8 @@ public enum Subject {
         HV ("Hudební výchova"),
         VV ("Výtvarná výchova"),
         VL ("Vlastivěda"),
+        RJ ("Ruský jazyk"),
+        UJ ("Ukrajinský jazyk"),
         PRV ("Přírodověda");
 
         private String subject;
